@@ -1,5 +1,5 @@
 # 中文独立博客,互联网,自媒体杂谈
-群组
+
 
 
 2026年3月4日
@@ -39,3 +39,5 @@
 方法总比困难多. 
 
 如果你失败了,它证明你曾经努力过
+<img width="423" height="477" alt="QQ群" src="https://github.com/user-attachments/assets/8db6c9a2-afd1-459a-9c6c-6128652ad77f" />
+
